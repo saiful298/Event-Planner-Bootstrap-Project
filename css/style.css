@@ -1,0 +1,36 @@
+.pkg {
+    border-radius: 20px;
+    padding-top: 20px;
+    border: solid white;
+
+}
+
+#pkg1 {
+    background-color: bisque;
+}
+
+#pkg2 {
+    background-color: turquoise;
+}
+
+#pkg3 {
+    background-color: yellowgreen;
+    color: whitesmoke;
+}
+
+#pkg4 {
+    background-color: tomato;
+    color: white;
+}
+
+.footer {
+    background-color: #E6FAFA;
+    height: 250px;
+    padding-top: 30px;
+
+
+}
+
+.client {
+    padding-left: 120px;
+}
